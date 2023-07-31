@@ -16,19 +16,19 @@ I can't wait to explore these courses, take on challenges, and share my progress
 | Challenges | Difficulty |                                                Tags                                                | Completed |
 |:-------------:|:----------:|:--------------------------------------------------------------------------------------------------:|:---------:|
 |               |            |                                                                                                    |           |
-|     [CVE-Number](./Soc-analyst/CVE-Number/Readme.md)      |    Basic    |                                       EternalBlue, Searchsploit                                       | :heavy_check_mark:  |
-|   Backdoor   |   Medium   |                                            Cryptography                                            |        :heavy_check_mark:    |
-|    Bean Detector    |    Medium    |                                 Log analysis, Forensic, Web                               | :heavy_check_mark: |
-|     Bean    |    Easy    |                                     LFI, Web                                     | :heavy_check_mark: |
-|    55H-Access    |    Easy    |                              Splunk, Forensic, SSH                             |  :heavy_check_mark:|
-|      [Competition](./Soc-analyst/Competition/Readme.md)     |    Basic    |                                 CTF, Hacking, Google                                  | :heavy_check_mark:  |
-|     Creepy-DNS    |   Easy   |                               DNS, DNS Zone Transfer, Google                              |      :heavy_check_mark:     |
-|    FourOFour    |   Easy   |                                   Splunk,  Log, IIS Server,Microsoft                                   |      :heavy_check_mark:    |
-|     MEGO     |    Medium    |                                       Forensic, Volatility, Disc                                      | :heavy_check_mark: |
-|   Pass-Reset  |   Easy   |                                     File Misconfiguration, Web                                     |       :heavy_check_mark:    |
-|    Phisher    |    Medium    |                                     Foresic, Disc, Volatility                                     |        :heavy_check_mark:   |
-|      Remote Hacker     |   Medium   |                           Forensic, Logs Analysis, Windows logs                          |   :heavy_check_mark:        |
-|   [SIEM Port](./Soc-analyst/SIEM-Port/Readme.md)   |    Basic    |                                        SIEM, TLS                                       | :heavy_check_mark: |
-|     [Smart-Role](./Soc-analyst/Smart-Role/Readme.md)    |   Basic   |                                 Soc, CTI, Analyst                                 |         :heavy_check_mark:  |
-|     USB-Case    |    Easy    |                                   Splunk, USB Device                                   | :heavy_check_mark:          |
-|  WormSeen |   Medium   |                                     Exe Analysis, Forensic, Python                                    |       :heavy_check_mark:    |
+|     [CVE-Number](./Soc-analyst/CVE-Number/Readme.md)      |    Basic    |                                       EternalBlue, Searchsploit                                       | :white_check_mark: |
+|   Backdoor   |   Medium   |                                            Cryptography                                            |        :white_check_mark:   |
+|    Bean Detector    |    Medium    |                                 Log analysis, Forensic, Web                               | :white_check_mark: |
+|     Bean    |    Easy    |                                     LFI, Web                                     | :white_check_mark: |
+|    55H-Access    |    Easy    |                              Splunk, Forensic, SSH                             |  :white_check_mark:|
+|      [Competition](./Soc-analyst/Competition/Readme.md)     |    Basic    |                                 CTF, Hacking, Google                                  | :white_check_mark: |
+|     Creepy-DNS    |   Easy   |                               DNS, DNS Zone Transfer, Google                              |      :white_check_mark:     |
+|    FourOFour    |   Easy   |                                   Splunk,  Log, IIS Server,Microsoft                                   |      :white_check_mark:     |
+|     MEGO     |    Medium    |                                       Forensic, Volatility, Disc                                      | :white_check_mark: |
+|   Pass-Reset  |   Easy   |                                     File Misconfiguration, Web                                     |       :white_check_mark:    |
+|    Phisher    |    Medium    |                                     Foresic, Disc, Volatility                                     |        :white_check_mark:   |
+|      Remote Hacker     |   Medium   |                           Forensic, Logs Analysis, Windows logs                          |   :white_check_mark:        |
+|   [SIEM Port](./Soc-analyst/SIEM-Port/Readme.md)   |    Basic    |                                        SIEM, TLS                                       | :white_check_mark: |
+|     [Smart-Role](./Soc-analyst/Smart-Role/Readme.md)    |   Basic   |                                 Soc, CTI, Analyst                                 |         :white_check_mark:  |
+|     USB-Case    |    Easy    |                                   Splunk, USB Device                                   | :white_check_mark:          |
+|  WormSeen |   Medium   |                                     Exe Analysis, Forensic, Python                                    |       :white_check_mark:    |
