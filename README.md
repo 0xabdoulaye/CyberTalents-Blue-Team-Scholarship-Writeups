@@ -27,7 +27,7 @@ I can't wait to explore these courses, take on challenges, and share my progress
 |     MEGO     |    Medium    |                                       Forensic, Volatility, Disc                                      | :white_check_mark: |
 |   Pass-Reset  |   Easy   |                                     File Misconfiguration, Web                                     |       :white_check_mark:    |
 |    Phisher    |    Medium    |                                     Foresic, Disc, Volatility                                     |        :white_check_mark:   |
-|      Remote Hacker     |   Medium   |                           Forensic, Remote                          |           |
+|      Remote Hacker     |   Medium   |                           Forensic, Remote                          |   Completed        |
 |   [SIEM Port](./Soc-analyst/SIEM-Port/Readme.md)   |    Basic    |                                        SIEM, TLS                                       | :white_check_mark: |
 |     [Smart-Role](./Soc-analyst/Smart-Role/Readme.md)    |   Basic   |                                 Soc, CTI, Analyst                                 |         :white_check_mark:  |
 |     USB-Case    |    Easy    |                                   Splunk, USB Device                                   | :white_check_mark:          |
