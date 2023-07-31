@@ -18,17 +18,17 @@ I can't wait to explore these courses, take on challenges, and share my progress
 |               |            |                                                                                                    |           |
 |     CVE-Number      |    Basic    |                                       EternalBlue, Searchsploit                                       | Completed |
 |   Backdoor   |   Medium   |                                            Cryptography                                            |        Completed   |
-|    Bean Detector    |    Medium    |                                 Perl, Injection, Web -   Shellshock                                | Completed |
-|     Bean    |    Easy    |                                     File Misconfiguration, Web                                     | Completed |
-|    55H-Access    |    Easy    |                             File Misconfiguration, Web -   Nibble Blog                             |  |
-|      Competition     |    Basic    |                                 LFI, Web - /vtigercrm in   Elastix                                 | Completed |
+|    Bean Detector    |    Medium    |                                 Log analysis, Forensic, Web                               | Completed |
+|     Bean    |    Easy    |                                     LFI, Web                                     | Completed |
+|    55H-Access    |    Easy    |                              Splunk, Forensic, SSH                             |  Completed|
+|      Competition     |    Basic    |                                 CTF, Hacking, Google                                  | Completed |
 |     Creepy-DNS    |   Easy   |                               DNS, DNS Zone Transfer, Google                              |      Completed     |
-|    FourOFour    |   Easy   |                                   PHP,   Port Knocking, LFI, Web                                   |           |
-|     MEGO     |    Medium    |                                       FreeBSD, Injection, Web                                      | Completed |
+|    FourOFour    |   Easy   |                                   Splunk,  Log, IIS Server,Microsoft                                   |      Completed     |
+|     MEGO     |    Medium    |                                       Forensic, Volatility, Disc                                      | Completed |
 |   Pass-Reset  |   Easy   |                                     File Misconfiguration, Web                                     |       Completed    |
-|    Phisher    |    Medium    |                                     Arbitrary File Upload, Web                                     |        Completed   |
-|      Remote Hacker     |   Medium   |                           API Fuzzing, JSON, File   Misconfiguration, Web                          |           |
-|   SIEM Port   |    Basic    |                                        Patch Management, Web                                       | Completed |
-|     Smart-Role    |   Basic   |                                 PHP, Log Poisoning, FreeBSD,   Web                                 |         Completed  |
-|     USB-Case    |    Easy    |                                   Solaris, File Misconfiguration                                   |           |
-|  WormSeen |   Medium   |                                     C, Sandbox Escape, RFI, Web                                    |       Completed    |
+|    Phisher    |    Medium    |                                     Foresic, Disc, Volatility                                     |        Completed   |
+|      Remote Hacker     |   Medium   |                           Forensic, Remote                          |           |
+|   SIEM Port   |    Basic    |                                        SIEM, TLS                                       | Completed |
+|     Smart-Role    |   Basic   |                                 Soc, CTI, Analyst                                 |         Completed  |
+|     USB-Case    |    Easy    |                                   Splunk, USB Device                                   | Completed          |
+|  WormSeen |   Medium   |                                     Exe Analysis, Forensic, Python                                    |       Completed    |
