@@ -1,9 +1,9 @@
 ### Description
-###### You have received the alert in your company WAF that web attack happened recently. Please check and identify the below details
-X : Attacker IP 
-Y : Name of Vulnerability Scanner used by the Attacker
-Z : number of bytes in the sensitive files Leaked
-W : Date and time of the Sucessful attack (xx/xx/xxxx:xx:xx:xx)
+ You have received the alert in your company WAF that web attack happened recently. Please check and identify the below details
+X : Attacker IP <br> 
+Y : Name of Vulnerability Scanner used by the Attacker <br>
+Z : number of bytes in the sensitive files Leaked <br>
+W : Date and time of the Sucessful attack (xx/xx/xxxx:xx:xx:xx) <br>
 ### Solution
 To solve this challenge also, you need just  to know some  command line tool usage like: grep and cat
 
@@ -23,7 +23,7 @@ I launch this command and in the last line i got the sensitive file flag.txt and
 Now we need to answer the challenge Questions: <br>
 We see that The attacker IP is 172.17.0.1, and the tool that used by the attacker is Wfuzz. <br>
 The Date and time of Sucessfull attck is also in that 200 last response. and it's 12/Jun/2022:11:05:12.  We need to transform June by number, that will be 12/06/2022. <br>
-The number of bytes in that sensitive files will be found near 200 response and it's "49". 
+The number of bytes in that sensitive files will be found near 200 response and it's "49". <br>
 
 <li>
 	<details>
