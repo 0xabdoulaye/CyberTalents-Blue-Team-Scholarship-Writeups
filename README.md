@@ -17,8 +17,8 @@ I can't wait to explore these courses, take on challenges, and share my progress
 |:-------------:|:----------:|:--------------------------------------------------------------------------------------------------:|:---------:|
 |               |            |                                                                                                    |           |
 |     [CVE-Number](./Soc-analyst/CVE-Number/Readme.md)      |    Basic    |                                       EternalBlue, Searchsploit                                       | Completed |
-|   Backdoor   |   Medium   |                                            Cryptography                                            |        Completed   |
-|    Bean Detector    |    Medium    |                                 Log analysis, Forensic, Web                               | Completed |
+|   [Backdoor](./Soc-analyst/Backdoor/Readme.md)   |   Medium   |                                            Cryptography                                            |        Completed   |
+|    [Bean Detector](./Soc-analyst/Bean-Detector/Readme.md)    |    Medium    |                                 Log analysis, Forensic, Web                               | Completed |
 |     Bean    |    Easy    |                                     LFI, Web                                     | Completed |
 |    55H-Access    |    Easy    |                              Splunk, Forensic, SSH                             |  Completed|
 |      [Competition](./Soc-analyst/Competition/Readme.md)     |    Basic    |                                 CTF, Hacking, Google                                  | Completed |
