@@ -27,7 +27,7 @@ I can't wait to explore these courses, take on challenges, and share my progress
 |     MEGO     |    Medium    |                                       Forensic, Volatility, Disc                                      | Completed |
 |   Pass-Reset  |   Easy   |                                     File Misconfiguration, Web                                     |       Completed    |
 |    Phisher    |    Medium    |                                     Foresic, Disc, Volatility                                     |        Completed   |
-|      Remote Hacker     |   Medium   |                           Forensic, Logs Analysis, Windows logs                          |   Completed        |
+|      [Remote Hacker](./Soc-analyst/Remote-Hacker/Readme.md)     |   Medium   |                           Forensic, Logs Analysis, Windows logs                          |   Completed        |
 |   [SIEM Port](./Soc-analyst/SIEM-Port/Readme.md)   |    Basic    |                                        SIEM, TLS                                       | Completed |
 |     [Smart-Role](./Soc-analyst/Smart-Role/Readme.md)    |   Basic   |                                 Soc, CTI, Analyst                                 |         Completed  |
 |     USB-Case    |    Easy    |                                   Splunk, USB Device                                   | Completed          |
