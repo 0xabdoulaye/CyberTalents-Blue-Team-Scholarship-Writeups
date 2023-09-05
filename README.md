@@ -8,7 +8,7 @@ The second course, "CyberTalents Certified Threat Hunter," sounds even more thri
 
 I can't wait to explore these courses, take on challenges, and share my progress with you all. Join me on this cybersecurity adventure, and together, we'll become skilled defenders of the digital world! Let's go! 🚀💻🔒
 
-
+follow me on my Hacking Journey blog here : https://blackcybersec.xyz
 
 
 ## Certified SOC ANALYST
@@ -32,3 +32,29 @@ I can't wait to explore these courses, take on challenges, and share my progress
 |     [Smart-Role](./Soc-analyst/Smart-Role/Readme.md)    |   Basic   |                                 Soc, CTI, Analyst                                 |         Completed  |
 |     USB-Case    |    Easy    |                                   Splunk, USB Device                                   | Completed          |
 |  WormSeen |   Medium   |                                     Exe Analysis, Forensic, Python                                    |       Completed    |
+
+
+## Certified Threat Hunter
+
+| Challenges | Difficulty |                                                Tags                                                | Completed |
+|:-------------:|:----------:|:--------------------------------------------------------------------------------------------------:|:---------:|
+|               |            |                                                                                                    |           |
+|     [APT](./Threat-hunter)      |    Easy    |                                       Hacking groups,  OSINT                                     | Completed |
+|   [Kill Chain](./Threat-hunter)   |   Basic   |                                            Mittre attack                                            |        Completed   |
+|    [CTI Analyst](./Threat-hunter)    |    Easy    |                                Malware hash                               | Completed |
+|     Yara Magic    |    Easy    |                                     yara, rules, Basic                                     | Completed |
+|    Within Code    |    Medium    |                              yara, rules, conditions, strings                             |  Completed|
+|      [Falcon Hunt](./Threat-hunter)     |    Medium    |                                 hunting,                                   | Soon |
+|     Enc0de   |   Easy   |                               Arp, network analysis                              |      Completed     |
+|    Refresher    |   Medium   |                                   Wireshark hunting                                   |      Completed     |
+|     Ex0dus     |    Medium    |                                       Forensic, Wireshark, ICMP                                      | Completed |
+|   Missey  |   Easy   |                                     Wireshark,                                     |       Completed    |
+|    Baseline    |    Easy    |                                     Powershell, Hunting                                     |        Completed   |
+|      [Arson](./Threat-hunter)     |   Medium   |                           Powershell, Ps1, Wireshark                          |   Completed        |
+|   [Process](./Threat-hunter)   |    Basic    |                                        Windows, Process                                     | Soon |
+|     [W4nna-Flag](./Threat-hunter)    |   Medium   |                                 Forensic, Volatility                                 |         Completed  |
+|     Masqur4d3    |    Medium    |                                   Memory                                   | Soon          |
+|  Scanner |   Easy   |                                     Logs Analysis, Attacker                                   |       Soon    |
+|   [New account](./Threat-hunter)   |    Easy    |                ...                                                             | Soon |
+|     [Active Attacks](./Threat-hunter)    |   Medium   |            ...                                                      |         Completed  |
+|     Brut3 Forc3    |    Medium    |                                   ...                                   | Soon          |
