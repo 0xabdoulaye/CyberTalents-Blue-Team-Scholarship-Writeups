@@ -28,7 +28,7 @@ The number of bytes in that sensitive files will be found near 200 response and 
 <li>
 	<details>
 		<summary>Flag</summary>
-Bro, read all the Writeup and solve the challenge: the flag format is : flag{X:Y:Z:W}</details>
+flag{172.17.0.1:wfuzz:49:12/06/2022:11:05:12} : flag{X:Y:Z:W}</details>
 </li>
 
 
