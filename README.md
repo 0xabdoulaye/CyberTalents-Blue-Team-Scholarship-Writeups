@@ -22,7 +22,7 @@ follow me on my Hacking Journey blog here : https://blackcybersec.xyz
 |     Bean    |    Easy    |                                     LFI, Web                                     | Completed |
 |    55H-Access    |    Easy    |                              Splunk, Forensic, SSH                             |  Completed|
 |      [Competition](./Soc-analyst/Competition/Readme.md)     |    Basic    |                                 CTF, Hacking, Google                                  | Completed |
-|     Creepy-DNS    |   Easy   |                               DNS, DNS Zone Transfer, Google                              |      Completed     |
+|     [Creepy-DNS](./Soc-analyst/Creepy-DNS/README.md)    |   Easy   |                               DNS, DNS Zone Transfer, Google                              |      Completed     |
 |    FourOFour    |   Easy   |                                   Splunk,  Log, IIS Server,Microsoft                                   |      Completed     |
 |     MEGO     |    Medium    |                                       Forensic, Volatility, Disc                                      | Completed |
 |   Pass-Reset  |   Easy   |                                     File Misconfiguration, Web                                     |       Completed    |
@@ -31,7 +31,7 @@ follow me on my Hacking Journey blog here : https://blackcybersec.xyz
 |   [SIEM Port](./Soc-analyst/SIEM-Port/Readme.md)   |    Basic    |                                        SIEM, TLS                                       | Completed |
 |     [Smart-Role](./Soc-analyst/Smart-Role/Readme.md)    |   Basic   |                                 Soc, CTI, Analyst                                 |         Completed  |
 |     USB-Case    |    Easy    |                                   Splunk, USB Device                                   | Completed          |
-|  WormSeen |   Medium   |                                     Exe Analysis, Forensic, Python                                    |       Completed    |
+|  [WormSeen](./Soc-analyst/WormSeen/README.md) |   Medium   |                                     Exe Analysis, Forensic, Python                                    |       Completed    |
 
 
 ## Certified Threat Hunter
