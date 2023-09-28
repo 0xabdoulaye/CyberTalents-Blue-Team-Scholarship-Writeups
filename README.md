@@ -42,8 +42,8 @@ follow me on my Hacking Journey blog here : https://blackcybersec.xyz
 |     [APT](./Threat-hunter)      |    Easy    |                                       Hacking groups,  OSINT                                     | Completed |
 |   [Kill Chain](./Threat-hunter)   |   Basic   |                                            Mittre attack                                            |        Completed   |
 |    [CTI Analyst](./Threat-hunter)    |    Easy    |                                Malware hash                               | Completed |
-|     Yara Magic    |    Easy    |                                     yara, rules, Basic                                     | Completed |
-|    Within Code    |    Medium    |                              yara, rules, conditions, strings                             |  Completed|
+|     [Yara Magic](./Threat-hunter/YaraMagic.md)    |    Easy    |                                     yara, rules, Basic                                     | Completed |
+|    [Within Code](./Threat-hunter/WithIncode.md)    |    Medium    |                              yara, rules, conditions, strings                             |  Completed|
 |      [Falcon Hunt](./Threat-hunter)     |    Medium    |                                 hunting,                                   | Completed |
 |     Enc0de   |   Easy   |                               Arp, network analysis                              |      Completed     |
 |    Refresher    |   Medium   |                                   Wireshark hunting                                   |      Completed     |
